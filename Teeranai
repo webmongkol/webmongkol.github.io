@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>เว็บของ {Teeranai Kulket}</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <meta name="description" content="" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style>
+      h1 {
+background-color:DodgerBlue;
+}
+    </style>
+  </head>
+  <body>
+    <img src="https://scontent.fbkk2-7.fna.fbcdn.net/v/t1.0-9/13516730_10206509943529259_3715970771147816649_n.jpg?_nc_cat=109&_nc_ohc=b_jwAJUxo8AAQmxW5bB9EKllxyOZO_Wt0kMUL4bgXGyMZpWywUBOkDc8g&_nc_ht=scontent.fbkk2-7.fna&oh=4e47acffa52dc459307856942ea64f84&oe=5EAB1288" alt="NOPICJA" width="400" height="390">
+  <h1>About us</h1>
+  <p>My name is Teeranai Kulket<p>
+  <p>My nick name is P <p>
+  <p>Birth day : 23 dec 1997 <p>
+  <p>Address :219 M.1 Klongkhamao Nueklong Krabi 81130 Thailand <p>
+   <a href="https://www.facebook.com/mypwei">Facebook : Teeranai Kulket</a> 
+   <a href="mailto:mypwei@hotmail.com">Email : mypwei@hotmail.com</a>
+  <p>Tel : 089-7261772<p>
+  <h1>Educational background</h1>
+ <h2>2013-2016</h2> <p>Ammartpanichnukul School <p> 
+  <h2>2016-Present</h2> <p>Ammartpanichnukul School <p>
+  <h1 style="background-color:DodgerBlue;">Skill</h1>
+  <p>Microsoft Word : Pre-advanced <p>
+  <p>Microsoft Excel : Intermediate <p>
+  <p>Microsoft Powerpoint: Intermediate <p>
+  <h1>Languages</h1>
+  <p>Thai : Advanced <p>
+  <p>English : Upper Intermediate<p>
+  <h1 style="background-color:DodgerBlue;">Additional Activities</h1>
+  <ul>
+  <li>2017-01 : Staff of volunteer camp "Nan nee mee rak" ,Rotaract club Thammasat University </li>
+  <li>2017-03 - 2017-04 : Join speaker camp "Patok camp" , Speech and debate club of Thammasat University</li>
+  <li>2017-08 : Head of structure staff in volunteer camp "Tong tang tee ban  huay tong" ,Rotaract club Thammasat University</li>
+  <li>2017-10 : Head of welfare staff in volunteer camp "Pha jai pai pak tee pha shee" ,Rotaract club Thammasat University</li>
+  <li>2017-12 - 2017-04 : Join speaker camp "Go ngor kee happy new year" , Rural Development Volunteer club of Thammasat University</li>
+    <li>2018-01 : Head of parcel staff in volunteer camp "Pha gu pai phu ga" ,Rotaract club Thammasat University</li>
+</ul>
+    <button type="button" class="btn btn-danger">Danger</button>
+<body>
+</html>
